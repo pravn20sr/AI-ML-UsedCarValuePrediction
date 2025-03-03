@@ -1,6 +1,7 @@
 # Used car value prediction
 
-Introduction:
+**Introduction**:
+
 The goal of this analysis was to predict the price of used cars based on various features available in the dataset. The dataset contains features such as year, mileage, and other relevant characteristics of the cars. Our primary focus was to evaluate how different factors impact the price of used cars and assess the performance of linear and ridge regression models in predicting car prices.
 
 **Data Preparation and Preprocessing**:
